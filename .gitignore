@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+*.log
+.streamlit/secrets.toml
+local/
+data/
+.claude/
