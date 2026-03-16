@@ -11,5 +11,4 @@ venv/
 *.log
 .streamlit/secrets.toml
 local/
-data/
 .claude/
